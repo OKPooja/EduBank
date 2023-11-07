@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890739706099",
+    "project_id": "financial-literacy-f1fb0",
+    "storage_bucket": "financial-literacy-f1fb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890739706099:android:2d3e4c6575290375988f86",
+        "android_client_info": {
+          "package_name": "com.example.need"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUnCKq2n_C2QFezzRZ3D1yYBQ6185tzZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
